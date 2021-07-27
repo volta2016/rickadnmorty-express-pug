@@ -1,0 +1,27 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+main {
+	text-align: center;
+}
+figcaption {
+	font-size: 1.5em;
+	margin: 0.5rem 0;
+}
+
+img {
+	border-radius: 1rem;
+}
+
+a {
+	background-color: #7952b3;
+	color: white;
+	padding: 1rem;
+	text-decoration: none;
+	margin: 1rem auto;
+	display: block;
+	width: 200px;
+	border-radius: 0.3rem;
+}

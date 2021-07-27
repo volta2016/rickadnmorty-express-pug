@@ -1,0 +1,13 @@
+doctype html
+head
+	title #{titulo}
+	meta(charset="utf-8")
+	link(rel="stylesheet" href="./character.css")
+body
+	main
+		h1 #{name}
+		figure
+			img( src=data.image alt=data.name)
+			figcaption #{data.name}
+
+		a(href="/") Regresar
