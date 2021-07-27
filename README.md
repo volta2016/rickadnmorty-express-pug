@@ -22,4 +22,4 @@ $ npm install
 nodemon app
 ```
 
-[see proyect](https://rickandmorty-express-pug.herokuapp.com//)
+[see proyect](https://rickandmorty-express-pug.herokuapp.com)
